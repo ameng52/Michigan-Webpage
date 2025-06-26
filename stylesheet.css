@@ -1,0 +1,34 @@
+
+h1.center {
+  color: red;
+  font-family: verdana;
+  font-size: 300%;
+}
+p {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+}
+a:hover {
+    color:green;
+}
+img {
+    float:right;
+}
+aside {
+    position: absolute;
+    border:3px solid black;
+}
+section {
+    position: relative;
+    border:3px solid yellow;
+}
+#blurb {
+    color:teal;
+
+}
+table th,td{
+    border:1px solid;
+    position:relative;
+    text-align: center;
+}
